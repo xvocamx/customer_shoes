@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>919042378326-ere5s8cijua0do7agikts7q8onl6vtl5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.919042378326-ere5s8cijua0do7agikts7q8onl6vtl5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>919042378326-b27njlje40msfht0js1qevtv7codogbj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4Yh_g-4PXFJQb0NpagyeKZZ_2HIR78G4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>919042378326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.customerShoes</string>
+	<key>PROJECT_ID</key>
+	<string>qlgiay-1f2ef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qlgiay-1f2ef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:919042378326:ios:747bc5513ff2a286c9c9f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://qlgiay-1f2ef-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
